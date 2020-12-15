@@ -1,6 +1,6 @@
 {
-  "/src/**/*.ts": [
-    "yarn lint",
+  "*.ts": [
+    "yarn lint:fix",
     "yarn test"
   ]
 }
